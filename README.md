@@ -5,53 +5,7 @@ A Telegram Bot based on plugins using [tg](https://github.com/vysheng/tg).
 
 Bot Commands
 ------------
-            <td>Plugin to manage channels. Enable or disable channel.</td>
-        </tr>
-        <tr>
-            <td>commands.lua</td>
-            <td>Plugin to get info about what the bot can do.</td>
-        </tr>
-        <tr>
-            <td>(language)_lang.lua</td>
-            <td>Plugin to install a language in your redis db.</td>
-        </tr>
-        <tr>
-            <td>export_gban.lua</td>
-            <td>Plugin to export an installer (gban_installer.lua) or a list of all your bot gbans.</td>
-        </tr>
-        <tr>
-            <td>giverank.lua</td>
-            <td>Plugin to manage ranks (admins, mods and guests).</td>
-        </tr>
-        <tr>
-            <td>id.lua</td>
-            <td>Plugin to get info about telegram accounts.</td>
-        </tr>
-        <tr>
-            <td>moderation.lua</td>
-            <td>Plugin to manage users from chats. Kick, add, ban, unban, gban, ungban, kickme all of this with action by reply, by id and by username.</td>
-        </tr>
-        <tr>
-            <td>plugins.lua</td>
-            <td>Plugin to manage other plugins. Enable, disable or reload.</td>
-        </tr>
-        <tr>
-            <td>rules.lua</td>
-            <td>Plugin to get chat rules.</td>
-        </tr>
-        <tr>
-            <td>settings.lua</td>
-            <td>Plugin to administrate a group/supergroup, you can disable photos, stickers, gifs, links, arabic, flood, spam, lock channel members, audios...</td>
-        </tr>
-        <tr>
-            <td>spam.lua</td>
-            <td>Plugin to manage spam at groups and supergroups. When someone write a Telegram link to another group or channel, automatically (for example), plugin delete that user from the channel, and delete his message. Then, send a report to all sudo users in a private message with user info, text message and the name and id of that channel.</td>
-        </tr>
-        <tr>
-            <td>version.lua</td>
-            <td>Shows bot version</td>
-        </tr>
-    </tbody>
+       
 </table>
 
 #Commands Usages
