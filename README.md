@@ -5,16 +5,6 @@ A Telegram Bot based on plugins using [tg](https://github.com/vysheng/tg).
 
 Bot Commands
 ------------
-<table>
-    <thead>
-        <tr>
-            <td><strong>Name</strong></td>
-            <td><strong>Description</strong></td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>bot.lua</td>
             <td>Plugin to manage channels. Enable or disable channel.</td>
         </tr>
         <tr>
@@ -199,5 +189,3 @@ Then, you have to install a bot language like this:
 #lang en
 ```
 
-Enable more [`plugins`](https://github.com/yagop/Talibot/tree/supergroups/plugins)
--------------
