@@ -238,11 +238,10 @@ function create_config( )
       "plugins",
       "persian_lang",
       "settings",
-      "spam",
-      "spanish_lang",
-      "version",
-      "italian_lang"
-     },
+      "arabic_lang",
+      "arabic",
+      "spam"
+      },
     sudo_users = {our_id},
     admin_users = {},
     disabled_channels = {}
